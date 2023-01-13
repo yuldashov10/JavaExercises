@@ -61,3 +61,14 @@ Boolean[]array1={true,true,true,false,
 6, "I"     -> "IIIIII"
 5, "Hello" -> "HelloHelloHelloHelloHello"
 ```
+
+---
+
+#### 5. [Transportation on vacation](TransportationOnVacation.java)
+
+**Описание:**
+
+* Каждый день вы арендуете автомобиль, стоит $ 40. Если вы арендуете автомобиль на 7 и более дней, вы получаете
+  скидку $ 50 на общую сумму. Кроме того, если вы арендуете автомобиль на 3 или более дней, вы получаете скидку $ 20 на
+  общую сумму.
+* [Original Kata](https://www.codewars.com/kata/568d0dd208ee69389d000016/)
