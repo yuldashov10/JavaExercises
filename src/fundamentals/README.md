@@ -72,3 +72,21 @@ Boolean[]array1={true,true,true,false,
   скидку $ 50 на общую сумму. Кроме того, если вы арендуете автомобиль на 3 или более дней, вы получаете скидку $ 20 на
   общую сумму.
 * [Original Kata](https://www.codewars.com/kata/568d0dd208ee69389d000016/)
+
+---
+
+#### 6. [Sentence Smash](SentenceSmash.java)
+
+**Описание:**
+
+* Напишите функцию, которая берет массив слов и разбивает их вместе в предложение и возвращает предложение.
+* [Original Kata](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+
+---
+
+#### 7.[Convert a Boolean to a String](BooleanToString.java)
+
+**Описание:**
+
+* Реализуйте функцию, которая преобразует заданное логическое значение в его строковое представление.
+* [Original Kata](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
