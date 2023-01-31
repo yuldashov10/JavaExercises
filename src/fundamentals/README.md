@@ -90,3 +90,51 @@ Boolean[]array1={true,true,true,false,
 
 * Реализуйте функцию, которая преобразует заданное логическое значение в его строковое представление.
 * [Original Kata](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+
+---
+
+#### 8. [Count of positives / sum of negatives](CountAndSumOfNums.java)
+
+**Описание:**
+
+* Дано множество целых чисел.
+* Верните массив, где первым элементом является количество положительных чисел,
+  а вторым элементом является сумма отрицательных чисел. 0 не является ни положительным, ни отрицательным.
+* Если вход является пустым массивом или нулевым, верните пустой массив.
+
+* [Original Kata](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+
+---
+
+#### 9. [DNA to RNA Conversion](DNAToRNA.java)
+
+**Описание:**
+
+* Создайте функцию, которая переводит данную строку ДНК в РНК.
+
+
+* [Original Kata](https://www.codewars.com/kata/5556282156230d0e5e000089/)
+
+---
+
+#### 10. [Sum of positive](SumOfPositive.java)
+
+**Описание:**
+
+* Вы получаете массив чисел, возвращаете сумму всех положительных.
+
+* [Original Kata](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+
+---
+
+20. [taskname](filename)
+
+**Описание:**
+
+*
+
+* [Original Kata](link)
+
+
+
+
