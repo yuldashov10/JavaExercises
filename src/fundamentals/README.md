@@ -127,6 +127,63 @@ Boolean[]array1={true,true,true,false,
 
 ---
 
+#### 11. [Covfefe](Covfefe.java)
+
+**Описание:**
+
+* You are given a string. You must replace any occurence of the sequence `coverage` by `covfefe`,
+  however, if you don't find the word `coverage` in the string, you must add `covfefe` at the end
+  of the string with a leading space.
+
+* [Original Kata](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)
+
+#### 12. [Consonants](Consonants.java)
+
+**Описание:**
+
+* Complete the function that takes a string of English-language text and returns the number of consonants in the string.
+  Consonants are all letters used to write English excluding the vowels `a, e, i, o, u`.
+
+* [Original Kata](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/)
+
+#### 13. [String ends with?](EndsWith.java)
+
+**Описание:**
+
+* Complete the solution so that it returns true if the first argument(string)
+  passed in ends with the 2nd argument (also a string).
+
+* [Original Kata](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+
+#### 14. [Vowel remover](VowelRemover.java)
+
+**Описание:**
+
+* Create a function called shortcut to remove the lowercase vowels `(a, e, i, o, u )` in a given string.
+
+* [Original Kata](https://www.codewars.com/kata/5547929140907378f9000039/)
+
+
+#### 15. [Who likes it?](WhoLikesIt.java)
+
+**Описание:**
+
+* Реализуйте функцию, которая принимает массив, содержащий имена людей, которые любят элемент. 
+  Он должен вернуть текст дисплея, как показано в примерах:
+
+**Пример**
+
+```
+[]                                -->  "no one likes this"
+["Peter"]                         -->  "Peter likes this"
+["Jacob", "Alex"]                 -->  "Jacob and Alex like this"
+["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
+["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
+```
+
+* [Original Kata](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+
+
 20. [taskname](filename)
 
 **Описание:**
@@ -134,7 +191,3 @@ Boolean[]array1={true,true,true,false,
 *
 
 * [Original Kata](link)
-
-
-
-
