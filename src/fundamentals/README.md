@@ -163,12 +163,11 @@ Boolean[]array1={true,true,true,false,
 
 * [Original Kata](https://www.codewars.com/kata/5547929140907378f9000039/)
 
-
 #### 15. [Who likes it?](WhoLikesIt.java)
 
 **Описание:**
 
-* Реализуйте функцию, которая принимает массив, содержащий имена людей, которые любят элемент. 
+* Реализуйте функцию, которая принимает массив, содержащий имена людей, которые любят элемент.
   Он должен вернуть текст дисплея, как показано в примерах:
 
 **Пример**
@@ -183,11 +182,37 @@ Boolean[]array1={true,true,true,false,
 
 * [Original Kata](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
+#### 16. [Odd March Bits 8 bits](BitMarchArray.java)
 
-20. [taskname](filename)
+**Description:**
 
-**Описание:**
+* Therefore the `n` bits march from right to left along an `8` bits path. Once the most-significant bit
+  reaches the left their march is done. Each step will be saved as an array of `8` integers.
 
-*
+Return an array of all the steps.
 
-* [Original Kata](link)
+`1 <= n <= 8`
+
+NOTE: `n != 0`, because `n` represents the number of `1`s.
+
+**Example**
+
+```
+n = 3
+
+00000111
+00001110
+00011100
+00111000
+01110000
+11100000
+```
+
+```
+n = 7
+
+01111111
+11111110
+```
+
+* [Original Kata](https://www.codewars.com/kata/58ee4db3e479611e6f000086/java)
