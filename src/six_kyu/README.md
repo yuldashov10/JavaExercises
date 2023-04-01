@@ -1,4 +1,4 @@
-1. **[Count the number of Duplicates](CountingDuplicates.java)**
+#### 1. **[Count the number of Duplicates](CountingDuplicates.java)**
 
 **Desc**
 
@@ -22,7 +22,7 @@
 
 ---
 
-2. **[Build a pile of Cubes](ASum.java)**
+#### 2. **[Build a pile of Cubes](ASum.java)**
 
 **Desc**
 
