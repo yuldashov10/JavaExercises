@@ -216,3 +216,20 @@ n = 7
 ```
 
 * [Original Kata](https://www.codewars.com/kata/58ee4db3e479611e6f000086/java)
+
+#### 16. [Multiple of index](ZywOo.java)
+
+**Description:**
+
+* Return a new array consisting of elements which are multiple of their own index in input array (length > 1).
+
+**Example**
+
+```
+[22, -6, 32, 82, 9, 25] =>  [-6, 32, 25]
+
+[68, -1, 1, -7, 10, 10] => [-1, 10]
+
+[-56,-85,72,-26,-14,76,-27,72,35,-21,-67,87,0,21,59,27,-92,68] => [-85, 72, 0, 68]
+
+```
