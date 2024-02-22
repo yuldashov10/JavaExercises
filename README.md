@@ -11,3 +11,5 @@
 ---
 
 ## Algorithms :jigsaw:
+
+### 1.  [Arrays](src/algorithms/arrays/ARRAYS.md)
