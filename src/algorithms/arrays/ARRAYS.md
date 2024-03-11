@@ -5,3 +5,5 @@
 3. [Sort binary array in linear time](SortBinaryArrayLinearTime.java)
     - Given a binary array, sort it in linear time and constant space.
       The output should print all zeros, followed by all ones.
+4. [Find a triplet with the given sum in an array](FindTripletSumInArray.java)
+   - Given an unsorted integer array, find a triplet with a given sum in it.
